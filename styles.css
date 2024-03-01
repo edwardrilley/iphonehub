@@ -1,0 +1,81 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #fb1230;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Homepage Styles */
+section {
+    text-align: center;
+}
+
+/* Features Page Styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Pricing Page Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Testimonials Page Styles */
+.testimonial {
+    margin-bottom: 20px;
+}
+
+/* Contact Page Styles */
+form {
+    text-align: centre;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
